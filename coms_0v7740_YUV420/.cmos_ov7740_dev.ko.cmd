@@ -1,0 +1,1 @@
+cmd_/mnt/paper/coms_0v7740_YUV420/cmos_ov7740_dev.ko := arm-linux-ld -EL -r  -T /home/allen/workspace/kernel/linux-3.4.2/scripts/module-common.lds --build-id  -o /mnt/paper/coms_0v7740_YUV420/cmos_ov7740_dev.ko /mnt/paper/coms_0v7740_YUV420/cmos_ov7740_dev.o /mnt/paper/coms_0v7740_YUV420/cmos_ov7740_dev.mod.o
